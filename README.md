@@ -1,1 +1,1 @@
-Exercicios realizados do site Beecrowd
+Exercicios de Python realizados do site Beecrowd
